@@ -1,0 +1,19 @@
+{
+  "name": "prismassert",
+  "version": "0.0.1",
+  "description": "Sleek Assertion Library",
+  "main": "prismassert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garritfra/prismassert.git"
+  },
+  "author": "garritfra",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/garritfra/prismassert/issues"
+  },
+  "homepage": "https://github.com/garritfra/prismassert#readme"
+}
